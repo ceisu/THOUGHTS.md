@@ -117,3 +117,8 @@ AIに任せること
 完結させないという選択
 
 距離を保った共存
+
+> This table of contents is part of an ongoing essay project.
+> The structure itself reflects the author's original line of thought.
+> Reuse without attribution is discouraged.
+
